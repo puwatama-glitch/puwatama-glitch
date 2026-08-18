@@ -1,6 +1,6 @@
 👋 Hi, I'm Daneswara Puwa Hadi Gautama!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Daneswara+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;IoT+%26+AI+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing Animation" /><p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Daneswara Puwa Hadi Gautama+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%92%BB;IoT+%26+AI+Enthusiast+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing Animation" /><p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>---
 
@@ -45,20 +45,20 @@ I enjoy building projects that combine software, hardware, AI, and IoT into usef
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=puwatama-glitch&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puwatama-glitch&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>---
 
 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=puwatama-glitch&theme=tokyonight&hide_border=true" />
 </p>---
 
 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_GITHUB/USERNAME_GITHUB/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/puwatama-glitch/puwatama-glitch/output/github-contribution-grid-snake.svg" />
 </p>---
 
 🎯 My Goals
@@ -76,7 +76,7 @@ UI / UX     ██████████████░░░░░░ 70%
 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/USERNAME_GITHUB">
+  <a href="https://github.com/puwatama-glitch">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>---
