@@ -48,42 +48,6 @@ I want to build something useful with it.»
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql&theme=dark" />
 </p>---
 
-🚀 Featured Projects
-
-🔐 SECURIDE
-
-Smart Electronic Control & Urban Ride Security
-
-IoT + AI platform designed for motorcycle rental businesses.
-
-Features
-
-📍 Real-time GPS Tracking
-🔒 Remote Vehicle Control
-🚨 Security Notifications
-📊 Rental History
-🔧 Predictive Maintenance
-🤖 AI Anomaly Detection
-
----
-
-🌱 AGRISHIELD
-
-Smart agricultural security system designed to detect and repel birds.
-
-Technology
-
-ESP32-CAM
-ESP32
-PIR Sensor
-LDR
-Servo
-Buzzer
-MQTT
-AI Detection
-
----
-
 📊 GitHub Analytics
 
 <p align="center">
@@ -100,24 +64,10 @@ AI Detection
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puwatama-glitch&theme=tokyonight&animation=load&duration=3" width="48%" />
 </p>---
 
-🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=puwatama-glitch&theme=tokyonight&hide_border=true" width="70%" />
-</p>«⚠️ Jika bagian ini masih blank, itu karena server Streak Stats publik sedang bermasalah. README-nya sendiri merekomendasikan self-hosting untuk reliability yang lebih baik.»
-
----
-
 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=puwatama-glitch&theme=tokyo-night&hide_border=true&area=true&custom_title=Daneswara%27s%20Contribution%20Graph" width="95%" />
-</p>---
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/puwatama-glitch/puwatama-glitch/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake" />
 </p>---
 
 🎯 My Learning Progress
